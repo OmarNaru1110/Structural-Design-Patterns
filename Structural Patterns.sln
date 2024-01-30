@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy Pattern", "Proxy Pattern\Proxy Pattern.csproj", "{4B80B640-CDEA-4D55-96CF-329FEFAC413B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy Pattern", "Proxy Pattern\Proxy Pattern.csproj", "{4B80B640-CDEA-4D55-96CF-329FEFAC413B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator Pattern", "Decorator Pattern\Decorator Pattern.csproj", "{C07044EC-55D0-46BE-A68B-5F54A2E68EAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4B80B640-CDEA-4D55-96CF-329FEFAC413B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B80B640-CDEA-4D55-96CF-329FEFAC413B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B80B640-CDEA-4D55-96CF-329FEFAC413B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07044EC-55D0-46BE-A68B-5F54A2E68EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07044EC-55D0-46BE-A68B-5F54A2E68EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07044EC-55D0-46BE-A68B-5F54A2E68EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07044EC-55D0-46BE-A68B-5F54A2E68EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
