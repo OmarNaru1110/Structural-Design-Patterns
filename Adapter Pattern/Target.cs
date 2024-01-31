@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Adapter_Pattern
+{
+    public class Target : ITarget
+    {
+        public void request(int x, double y)
+        {
+            Console.WriteLine($"{x} first\n {y} second");
+        }
+    }
+}
